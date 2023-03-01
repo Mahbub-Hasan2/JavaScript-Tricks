@@ -1,7 +1,7 @@
 # JavaScript-Tricks
 💥JavaScript Tips and Tricks - JavaScript Job Interview Questions🌺
 
-<br> <br>
+<br>
 
 
 ## Ternary Operator
