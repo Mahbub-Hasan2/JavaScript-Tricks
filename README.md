@@ -5,7 +5,7 @@
 
 
 ## Ternary Operator
-#### Please explain this code : 
+#### explanation code: 
 
 ```
 var age = 19;
